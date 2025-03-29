@@ -22,7 +22,7 @@ public class Professor {
     public int getIdadeProfessor() {
         return idadeProfessor;
     }
-    
+
     @Override
     public String toString() {
         return "Professor{" +
